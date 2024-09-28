@@ -1,0 +1,3 @@
+youtube-transcript-api 
+gradio_client
+deep_translator
